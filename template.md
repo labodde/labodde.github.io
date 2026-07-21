@@ -1,8 +1,9 @@
 ---
-title: Plantilla de Clase - MyST Markdown
+title: Título
+subtitle: Subtítulo
 ---
 
-# Título de la Clase
+# Encabezado 1
 
 **Fecha:** DD/MM/YYYY
 
@@ -14,15 +15,16 @@ Esta plantilla está basada en la sintaxis de [MyST Markdown](https://myst-parse
 
 ---
 
-## Video de la clase
+## Encabezado 2
 
+Video embedido
 :::{iframe} https://www.youtube.com/embed/VIDEO_ID
 :width: 100%
 :::
 
 ---
 
-## Texto y formato básico
+## Encabezado 2
 
 Párrafo normal con **negrita**, *cursiva*, y `código inline`.
 
@@ -168,7 +170,7 @@ $$
 
 ## Figuras e imágenes
 
-```{figure} ../images/dm.png
+```{figure} ./images/dm.png
 :width: 300px
 :align: center
 :name: fig-ejemplo

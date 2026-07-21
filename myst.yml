@@ -26,6 +26,9 @@ project:
     # - file: referencias.md
     # - file: contribucion.md
     - file: preguntas_frecuentes.md
+    - file: template.md
+      title: Template
+     
 site:
   template: book-theme
   options:
