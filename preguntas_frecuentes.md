@@ -1,5 +1,10 @@
 # Preguntas Frequentes
 
+:::{dropdown} ¿Costó mucho hacer este sitio?
+:class: dropdown
+No, esencialmente se copió de acá [Datos, Ecuaciones Diferenciales e Inteligencia Artificial](https://facusapienza.org/DM2026-Curso/).
+:::
+
 :::{dropdown} ¿Es cierto que una ecuación con retardo tarda en llegar?
 :class: dropdown
 Es un problema abierto.
