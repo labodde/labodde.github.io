@@ -14,14 +14,14 @@ title: 'Integrantes'
 - [ResearchGate](https://www.researchgate.net/profile/Pablo-Amster).
 :::
 
-:::{dropdown} Dr. John A. Arredondo.
-- [Fundación Universitaria Konrad Lorenz](https://www.konradlorenz.edu.co/), Bogotá, Colombia.
-- [ResearchGate](https://www.researchgate.net/profile/John-Arredondo).
-:::
-
 :::{dropdown} Dr. Rodrigo Castro.
 - [SedLab](https://sedlab.dc.uba.ar/), Buenos Aires, Argentina.
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Castro-30).
+:::
+
+:::{dropdown} Dr. John A. Arredondo.
+- [Fundación Universitaria Konrad Lorenz](https://www.konradlorenz.edu.co/), Bogotá, Colombia.
+- [ResearchGate](https://www.researchgate.net/profile/John-Arredondo).
 :::
 
 :::{dropdown} Dr. Alexander Alegría Castellanos.
@@ -48,6 +48,7 @@ title: 'Integrantes'
 - [Pontificia Universidad Javeriana de Cali, Facultad de Ingeniería y Ciencias, Departamento de Ciencias Naturales y Matemática](https://www.javerianacali.edu.co/departamentos/ciencias-naturales-y-matematicas), Cali, Colombia.
 :::
 
+<!--
 # Integrantes
 
 - Dr. Andrés Rivera, [Pontificia Universidad Javeriana de Cali, Facultad de Ingeniería y Ciencias, Departamento de Ciencias Naturales y Matemática](https://www.javerianacali.edu.co/departamentos/ciencias-naturales-y-matematicas), Cali, Colombia.
