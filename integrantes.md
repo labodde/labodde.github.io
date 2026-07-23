@@ -19,7 +19,7 @@ title: 'Integrantes'
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Castro-30).
 :::
 
-:::{dropdown} Dr. John A. Arredondo.
+:::{dropdown} Dr. Jhon A. Arredondo.
 - [Fundación Universitaria Konrad Lorenz](https://www.konradlorenz.edu.co/), Bogotá, Colombia.
 - [ResearchGate](https://www.researchgate.net/profile/John-Arredondo).
 :::
@@ -36,18 +36,22 @@ title: 'Integrantes'
 - [ResearchGate](https://www.researchgate.net/profile/Sebastian-Pedersen-5).
 :::
 
-:::{dropdown} Daniel.
+:::{dropdown} Daniel Posada.
 - [Pontificia Universidad Javeriana de Cali, Facultad de Ingeniería y Ciencias, Departamento de Ciencias Naturales y Matemática](https://www.javerianacali.edu.co/departamentos/ciencias-naturales-y-matematicas), Cali, Colombia.
 :::
 
-:::{dropdown} Juan.
+:::{dropdown} Juan Naranjo.
 - [Pontificia Universidad Javeriana de Cali, Facultad de Ingeniería y Ciencias, Departamento de Ciencias Naturales y Matemática](https://www.javerianacali.edu.co/departamentos/ciencias-naturales-y-matematicas), Cali, Colombia.
 :::
 
-:::{dropdown} Isabella.
+:::{dropdown} Isabella Pachecho.
 - [Pontificia Universidad Javeriana de Cali, Facultad de Ingeniería y Ciencias, Departamento de Ciencias Naturales y Matemática](https://www.javerianacali.edu.co/departamentos/ciencias-naturales-y-matematicas), Cali, Colombia.
 :::
 
+:::{dropdown} Mariana Álvarez Cano.
+- [Pontificia Universidad Javeriana de Cali, Facultad de Ciencias Económicas y Administrativas](https://www.javerianacali.edu.co/facultades/ciencias-economicas-y-administrativas), Cali, Colombia.
+- [ResearchGate](https://www.researchgate.net/profile/Mariana-Alvarez-Cano).
+:::
 <!--
 # Integrantes
 
