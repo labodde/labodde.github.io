@@ -7,7 +7,7 @@ title: Glosario
 :::{glossary}
 
 Ecuaciones Diferenciales con Retardo
-: Es una ecuación diferencial ordinaria a la que se le agregan un "retardo". Ejemplo $X'(t)=X(t-\tau)$. Ver [Wikipedia ecs. retardo](https://es.wikipedia.org/wiki/Ecuaciones_diferenciales_con_retardo).
+: Es una ecuación diferencial donde la tasa de crecimiento no se ve afectada por el estado en el mismo instante, sino por instantes anteriores. Ejemplo $X'(t)=X(t-\tau)$. Ver [Wikipedia ecs. retardo](https://es.wikipedia.org/wiki/Ecuaciones_diferenciales_con_retardo).
 
 Sistemas Dinámicos
 : Variables $X_1(t),\dots,X_n(t)$ dependientes del tiempo e interconectadas por una ley que las gobierna. Típicamente es de interés analizar el gráfico de fases, es decir la imagen de $t\mapsto (X_1(t),\dots,X_n(t))$. Ver [Wiki sist. din.](https://es.wikipedia.org/wiki/Sistema_din%C3%A1mico).
